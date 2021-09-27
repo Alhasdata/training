@@ -1,0 +1,3 @@
+Nom du projet : calculator 
+Description: Calculator est une calculatrice en ligne de commande qui demande à l'utilisateur de saisir deux nombres. Ensuite, Calculator affichera le résultat de l'addition des ombres saisis par l'utilisateur.
+Quand le 'utilisateur ne rentre pas de données, Calculator les lui reclamerons jusqu'àce qu'il les renseignes.
