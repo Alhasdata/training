@@ -1,6 +1,6 @@
 # Je déclare ma fonction ip_validator
 def ip_validator(ip):
-    # je split l'ip sur les point pour récupérer les nombres qui la compose 
+    # je split l'ip sur les point pour récupérer les nombres qui la compose
     # dans une liste contenue dans une variable
     ma_var = ip.split(".")
     # je vérifie la taille de la liste
