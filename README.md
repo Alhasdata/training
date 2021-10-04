@@ -31,3 +31,7 @@ ip_validator("192.2.3.155")  => True
 ip_validator("192.2.3.285")  => False
 ip_validator("192.2.155")    => False
 ```
+## le_nombre_mystere
+
+Mini jeu qui consiste à deviner un nombre aléatoire compris entre 0 et 100. Vous avez 10 essais pour trouver le bon nombre. Vous avez des indications (plus grand ou plus petit que le nombre renseigné) à chaque essai
+
