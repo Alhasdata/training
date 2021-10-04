@@ -14,7 +14,6 @@ Dans ce projet, j’ai créé 4 fonctions qui return un carré vide, un carré p
 
 La fonction final_pattern fait appelle aux fonctions créées en amont en fonction des arguments renseignés ([type de forme] hauteur, largeur).
 
-PS : 
 ```python
 final_pattern(["full", "concentric"], 23, 23)
 # return un carré full et un concentric de taille 23 hateur et 23 largeur
