@@ -33,5 +33,11 @@ ip_validator("192.2.155")    => False
 ```
 ## le_nombre_mystere
 
-Mini jeu qui consiste à deviner un nombre aléatoire compris entre 0 et 100. Vous avez 10 essais pour trouver le bon nombre. Vous avez des indications (plus grand ou plus petit que le nombre renseigné) à chaque essai
+Mini jeu qui consiste à deviner un nombre aléatoire compris entre 0 et 100. Vous avez 10 essais pour trouver le bon nombre. Vous avez des indications (plus grand ou plus petit que le nombre renseigné) à chaque essai.
+
+## minesweeper (projet encours)
+
+C'est le jeu du démineur. Encours de dév...
+
+
 
